@@ -1,0 +1,29 @@
+body {
+  background-color: lightgrey;
+}
+h1 {
+  text-align: center;
+  font-size: 50px;
+}
+h2 {
+  font-style: italic;
+  font-size: 90%;
+}
+
+#letter {
+display: none;
+}
+
+#postcard {
+  width: 1000px;
+  height: 666px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  max-width: 550px;
+}
